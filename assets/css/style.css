@@ -64,7 +64,7 @@ font-family: 'Poppins', sans-serif;
 
 article p{
     text-align: center;
-    padding-left: 100px;
+    padding-left: 145px;
     padding-right: 100px;
 }
 
@@ -92,6 +92,7 @@ article p{
 
 .ul-tour-list-item{
     padding-top:3px;
+    letter-spacing: 2px;
 }
 
 .ul-tour-list-item span{
@@ -105,4 +106,8 @@ color:red;
 .footer-header{
     text-align: center;
     font-family: 'Cinzel', sans-serif;
+}
+
+.article-tour-dates{
+    margin-left: 102px;
 }
