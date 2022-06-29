@@ -5,35 +5,35 @@ font-family: 'Cinzel', serif;
 font-family: 'Poppins', sans-serif;
 */
 
-.header-logo{
+.header-logo {
 
     font-family: 'Cinzel', sans-serif;
     font-size: 30px;
-     color:rgb(126, 125, 125);
-   float:left;
-    
+    color: rgb(126, 125, 125);
+    float: left;
+
 }
 
-.div-heaver-nav{
-    width:100%;
+.div-heaver-nav {
+    width: 100%;
     height: 50px;
 }
 
 /* Navigation */
-.navigation{
-  float:right;
-  margin-top: 37px;
-  
+.navigation {
+    float: right;
+    margin-top: 37px;
+
 }
 
-.nav-anchor{
-    padding-left:5px;
+.nav-anchor {
+    padding-left: 5px;
     text-decoration: none;
-    color:rgb(126, 125, 125);
+    color: rgb(126, 125, 125);
 }
 
 /* Header */
-.div-header-img{
+.div-header-img {
     /* https://www.w3schools.com/howto/howto_css_hero_image.asp */
     background-image: url("https://images.unsplash.com/photo-1486312699619-be057cfc0342?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1502&q=80");
     height: 500px;
@@ -43,7 +43,7 @@ font-family: 'Poppins', sans-serif;
     position: relative;
 }
 
-.img-text-centered{
+.img-text-centered {
     /* https://www.w3schools.com/howto/howto_css_image_text.asp */
     text-align: center;
     font-family: 'Cinzel', sans-serif;
@@ -56,58 +56,58 @@ font-family: 'Poppins', sans-serif;
 }
 
 /* Article Header */
-.article-header{
+.article-header {
     text-align: center;
     font-family: 'Cinzel', sans-serif;
 }
 
 
-article p{
+article p {
     text-align: center;
     padding-left: 145px;
     padding-right: 100px;
 }
 
-.div-images-container img{
- width:300px;
- padding-right: 10px;
- width: 333px;
- padding: 19px;
- margin-top: 10px;
+.div-images-container img {
+    width: 300px;
+    padding-right: 10px;
+    width: 333px;
+    padding: 19px;
+    margin-top: 10px;
 }
 
-.div-images-container{
+.div-images-container {
     margin-left: 130px;
- 
+
 }
 
-.article-with-images{
-    width:100%;
+.article-with-images {
+    width: 100%;
 }
 
 
-.ul-tour-list{
+.ul-tour-list {
     list-style-type: none;
 }
 
-.ul-tour-list-item{
-    padding-top:3px;
+.ul-tour-list-item {
+    padding-top: 3px;
     letter-spacing: 2px;
 }
 
-.ul-tour-list-item span{
-color:red;
+.ul-tour-list-item span {
+    color: red;
 }
 
 .hr-separator {
     border-color: lightgray;
 }
 
-.footer-header{
+.footer-header {
     text-align: center;
     font-family: 'Cinzel', sans-serif;
 }
 
-.article-tour-dates{
+.article-tour-dates {
     margin-left: 102px;
 }
